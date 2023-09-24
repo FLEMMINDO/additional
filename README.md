@@ -6,6 +6,8 @@ In the last time I'm more focusing on improving my skills with passing free Step
 
 120 problems solved (all solutions downloaded in rep)
 
+
+
 ![image](https://github.com/FLEMMINDO/additional/assets/95833708/fce7ad11-e354-489a-aef6-8bcd7711d183)
 
 ## Stepik
